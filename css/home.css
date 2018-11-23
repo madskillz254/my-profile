@@ -1,0 +1,29 @@
+
+
+#cool_home{
+
+    background-image: url("https://wallpapercave.com/wp/XZHTyde.jpg");
+    background-size: cover;
+    padding:200px;
+    background-repeat: no-repeat;
+}
+
+h1{
+  font-size:25px;
+  float:right;
+  color:red;
+
+}
+}
+
+h2{
+  font-size:50px;
+  float:left;
+  color:blue;
+}
+ img{
+   
+    border-radius: 8px;
+
+
+ }
