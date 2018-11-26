@@ -6,6 +6,7 @@ body{
   color: #777;
 
 
+<<<<<<< HEAD
 }
 
 h3{
@@ -38,6 +39,18 @@ text-align: center;
   width: 100%;
   text-align: center;
   color: #000;
+=======
+body{
+font-size:25px;
+font-style: normal;
+
+}
+
+h1{
+  font-size:30px;
+  float:right;
+  color:white;
+>>>>>>> 521f9502d220e8ccf3011016a023a5b096d864f6
 
 }
 .caption span.border {
@@ -61,6 +74,7 @@ text-align: center;
       min-height: 1000px;  
   }
 
+<<<<<<< HEAD
 
 .bgimg-2 {
   background-image: url("http://www.intrawallpaper.com/static/images/Hd-Backgrounds-371.jpg");
@@ -95,3 +109,11 @@ position:relative;
   text-align: justify;
 }
 .
+=======
+h2{
+  font-size:70px;
+  float:right;
+  color:white;
+
+}
+>>>>>>> 521f9502d220e8ccf3011016a023a5b096d864f6
