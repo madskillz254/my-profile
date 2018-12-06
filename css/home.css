@@ -6,6 +6,33 @@ body{
   color: #777;
 
 }
+.bgimg-1,.bgimg-2, .bgimg-3 {
+ position: relative;
+ opacity: 0.8;
+ background-attachment: fixed;
+ background-position: center;
+ background-repeat: no-repeat;
+ background-size: cover;
+}
+
+ .bgimg-1{
+     background-image:url(../image/main_pic.jpg);
+     min-height: 1000px;
+ }
+
+
+
+.bgimg-2 {
+ background-image: url(../image/cool.jpg);
+ min-height: 400px;
+}
+
+
+.bgimg-3 {
+ background-image: url(../image/cool_3.jpg);
+ min-height: 400px;
+}
+
 
 h3{
   text-align: center;
@@ -57,32 +84,6 @@ h1{
   padding: 18px;
   font-size: 25px;
   letter-spacing: 10px;
-}
- .bgimg-1,.bgimg-2, .bgimg-3 {
-  position: relative;
-  opacity: 0.8;
-  background-attachment: fixed;
-  background-position: center;
-  background-repeat: no-repeat;
-  background-size: cover;
-}
-
-  .bgimg-1{
-      background-image:url(../image/main_pic.jpg);
-      min-height: 1000px;
-  }
-
-
-
-.bgimg-2 {
-  background-image: url(../image/cool.jpg);
-  min-height: 400px;
-}
-
-
-.bgimg-3 {
-  background-image: url(../image/cool_3.jpg);
-  min-height: 400px;
 }
 
 
