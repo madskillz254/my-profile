@@ -5,21 +5,20 @@ body{
   font-style: sans-serif;
   color: #777;
 
-
 }
 
 h3{
-text-align: center;
+  text-align: center;
   letter-spacing: 5px;
   text-transform: uppercase;
   font: 20px "Lato";
   font-style: sans-serif;
-  color: #111;
+  color: rgba(27, 29, 232);
 }
 
  .about-me{
-  color: #777;
-  background-color:white;
+  color:#ddd;
+  background-color:#282E34;
   text-align:center;
   padding:50px 80px;
   text-align: justify;
@@ -38,6 +37,18 @@ text-align: center;
   width: 100%;
   text-align: center;
   color: #000;
+}
+
+body{
+font-size:25px;
+font-style: normal;
+
+}
+
+h1{
+  font-size:30px;
+  float:right;
+  color:white;
 
 }
 .caption span.border {
@@ -49,7 +60,7 @@ text-align: center;
 }
  .bgimg-1,.bgimg-2, .bgimg-3 {
   position: relative;
-  opacity: 0.65;
+  opacity: 0.8;
   background-attachment: fixed;
   background-position: center;
   background-repeat: no-repeat;
@@ -57,19 +68,20 @@ text-align: center;
 }
 
   .bgimg-1{
-      background-image: url("http://mosthdwallpapers.com/wp-content/uploads/2016/05/Latest-Action-Games-HD-Desktop-Wallpaper.jpg");
-      min-height: 1000px;  
+      background-image:url(../image/main_pic.jpg);
+      min-height: 1000px;
   }
 
 
+
 .bgimg-2 {
-  background-image: url("http://www.intrawallpaper.com/static/images/Hd-Backgrounds-371.jpg");
+  background-image: url(../image/cool.jpg);
   min-height: 400px;
 }
 
 
 .bgimg-3 {
-  background-image: url("https://wallpapertag.com/wallpaper/full/2/1/8/405802-coding-wallpaper-1920x1080-mac.jpg");
+  background-image: url(../image/cool_3.jpg);
   min-height: 400px;
 }
 
@@ -94,4 +106,3 @@ position:relative;
   padding:50px 80px;
   text-align: justify;
 }
-.
