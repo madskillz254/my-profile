@@ -1,4 +1,4 @@
-##MY PROFILE
+## MY PROFILE
 
 ## Preview
 My profile is an online website that displays who Daniel MUgambi is ,his likes hobbies,projects he has created etc.
@@ -41,7 +41,7 @@ my-profile was created by and is maintained by **[Daniel Mugambi & associates](h
 
 MIT License
 
-Copyright (c) [2018] [DANIEL MUGAMBI]
+Copyright (c) [2019] [DANIEL MUGAMBI]
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
